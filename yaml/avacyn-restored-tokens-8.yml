@@ -1,0 +1,116 @@
+---
+object: card
+id: cce7547c-6d3d-4586-83b2-3d208113b045
+oracle_id: 53bb5d83-f499-44f0-9dce-04a28bd4be4d
+multiverse_ids: []
+tcgplayer_id: 78391
+name: Tamiyo, the Moon Sage Emblem
+lang: en
+released_at: '2012-05-04'
+uri: https://api.scryfall.com/cards/cce7547c-6d3d-4586-83b2-3d208113b045
+scryfall_uri: https://scryfall.com/card/tavr/8/tamiyo-the-moon-sage-emblem?utm_source=api
+layout: emblem
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/c/c/cce7547c-6d3d-4586-83b2-3d208113b045.jpg?1561758093
+  normal: https://cards.scryfall.io/normal/front/c/c/cce7547c-6d3d-4586-83b2-3d208113b045.jpg?1561758093
+  large: https://cards.scryfall.io/large/front/c/c/cce7547c-6d3d-4586-83b2-3d208113b045.jpg?1561758093
+  png: https://cards.scryfall.io/png/front/c/c/cce7547c-6d3d-4586-83b2-3d208113b045.png?1561758093
+  art_crop: https://cards.scryfall.io/art_crop/front/c/c/cce7547c-6d3d-4586-83b2-3d208113b045.jpg?1561758093
+  border_crop: https://cards.scryfall.io/border_crop/front/c/c/cce7547c-6d3d-4586-83b2-3d208113b045.jpg?1561758093
+mana_cost: ''
+cmc: 0.0
+type_line: Emblem — Tamiyo
+oracle_text: |-
+  You have no maximum hand size.
+  Whenever a card is put into your graveyard from anywhere, you may return it to your hand.
+colors: []
+color_identity: []
+keywords: []
+all_parts:
+- object: related_card
+  id: cce7547c-6d3d-4586-83b2-3d208113b045
+  component: combo_piece
+  name: Tamiyo, the Moon Sage Emblem
+  type_line: Emblem — Tamiyo
+  uri: https://api.scryfall.com/cards/cce7547c-6d3d-4586-83b2-3d208113b045
+- object: related_card
+  id: b9398926-13b9-47b8-b66b-1ab9d06bb704
+  component: combo_piece
+  name: Tamiyo, the Moon Sage
+  type_line: Legendary Planeswalker — Tamiyo
+  uri: https://api.scryfall.com/cards/b9398926-13b9-47b8-b66b-1ab9d06bb704
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: not_legal
+  pauper: not_legal
+  vintage: not_legal
+  penny: not_legal
+  commander: not_legal
+  oathbreaker: not_legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: not_legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: c362c2a9-2782-4cbc-917f-05334cb81c5b
+set: tavr
+set_name: Avacyn Restored Tokens
+set_type: token
+set_uri: https://api.scryfall.com/sets/c362c2a9-2782-4cbc-917f-05334cb81c5b
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Atavr&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/tavr?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/cce7547c-6d3d-4586-83b2-3d208113b045/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A53bb5d83-f499-44f0-9dce-04a28bd4be4d&unique=prints
+collector_number: '8'
+digital: false
+rarity: common
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Eric Deschamps
+artist_ids:
+- 37970e22-9cee-44c1-af44-5ee27cf26b76
+illustration_id: 2f29613e-63fe-4111-8594-ff1d0ca2566e
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+promo_types:
+- setpromo
+prices:
+  usd: '2.40'
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Tamiyo%2C+the+Moon+Sage+Emblem&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Tamiyo%2C+the+Moon+Sage+Emblem&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Tamiyo%2C+the+Moon+Sage+Emblem
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/78391?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Tamiyo%2C+the+Moon+Sage+Emblem&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Tamiyo%2C+the+Moon+Sage+Emblem&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
